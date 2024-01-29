@@ -11,5 +11,6 @@ Um software simples em Python utilizando PyQt5 que exibe uma janela interativa c
 2. Instale a biblioteca PyQt5 usando o seguinte comando:
    ```bash
    pip install PyQt5
+   py main.py ou python3 main.py
 
   
