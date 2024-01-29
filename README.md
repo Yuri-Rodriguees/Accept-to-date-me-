@@ -1,6 +1,6 @@
 # Sim ou Não?
 
-Um aplicativo simples em Python utilizando PyQt5 que exibe uma janela interativa com a pergunta "Você quer namorar comigo?" e dois botões, SIM e NÃO. A diversão acontece quando você passa o mouse sobre o botão NÃO, que se move para uma posição aleatória na janela. Perfeito para uma brincadeira descontraída e para aprender conceitos básicos de interface gráfica com PyQt5.
+Um software simples em Python utilizando PyQt5 que exibe uma janela interativa com a pergunta "Você quer namorar comigo?" e dois botões, SIM e NÃO. A diversão acontece quando você passa o mouse sobre o botão NÃO, que se move para uma posição aleatória na janela. Perfeito para uma brincadeira descontraída e para aprender conceitos básicos de interface gráfica com PyQt5.
 
 ## Requisitos
 - Python 3
